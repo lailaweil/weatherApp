@@ -5,6 +5,18 @@
 * Sin comando: busca la dirección cargada como default, sino se tiene cargada ninguna dirección se pide que lo haga.
 * Flag (--default) -f="dirección a buscar por default". Guarda la dirección dada como default.
 
+### Prerequisitos
+
+```
+Node.js
+```
+
+### Instalación
+
+```
+node app-promise.js
+```
+
 ## Tecnologías usadas
 
 * [Node.js]
