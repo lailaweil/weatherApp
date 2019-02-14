@@ -14,6 +14,7 @@ Node.js
 ### Instalación
 
 ```
+npm install
 node app-promise.js
 ```
 
